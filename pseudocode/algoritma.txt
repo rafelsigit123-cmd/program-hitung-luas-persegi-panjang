@@ -28,7 +28,7 @@ E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
 1. INPUT:
 -panjang persegi panjang (p)
--Lebar persegi panjang (1)
+-Lebar persegi panjang (l)
 
 2. PROSES:
 -Menghitung luas persegi panjang.
